@@ -1,2 +1,6 @@
-# Dio-bootcamp
-repositório feito como desafio para o bootcamp Banco PAN
+# PRIMEIRO REPOSITORIO DO BOOTCAMP
+Repositorio criado para o bootcamp da DIO banco pan
+
+## Links úteis
+
+[Site_DIO](dio.me)
